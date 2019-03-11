@@ -6,7 +6,7 @@
 
 ## Usage
 ```
-const FakeUA = require('../fake-ua');
+const FakeUA = require('fake-ua');
 
 // fetch mobile UA
 FakeUA.mobile();

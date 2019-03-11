@@ -1,6 +1,6 @@
 {
   "name": "fake-ua",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "generate fake UA randomly",
   "main": "index.js",
   "scripts": {
