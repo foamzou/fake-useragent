@@ -11,7 +11,6 @@ const FakeUA = require('../fake-ua');
 // fetch mobile UA
 FakeUA.mobile();
 
-// TODO
 // fetch PC UA
 FakeUA.pc();
 ```

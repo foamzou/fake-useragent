@@ -1,11 +1,11 @@
 const mobileUAList = require('./data/mobile');
+const pcUAList = require('./data/pc');
 module.exports = {
     mobile: () => {
         return mobileUAList[random(0, mobileUAList.length - 1)];
     },
     pc: () => {
-        //TODO
-        return '';
+        return pcUAList[random(0, pcUAList.length - 1)];;
     }
 }
 
